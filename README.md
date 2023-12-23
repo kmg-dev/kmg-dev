@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I often look for my spectacles while wearing them**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
