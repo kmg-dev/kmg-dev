@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohangups" alt="mohangups" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently studying **Computer Science**
 
 - 💬 Ask me about **Numerical Optimization**
 
